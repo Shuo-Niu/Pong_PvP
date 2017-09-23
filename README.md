@@ -1,6 +1,6 @@
 # Pong_PvP
 
-Work on p5.js.
+Work on Processing 3 (in Java).
 
 Press `A` `Z` to control the left padddle; press `K` `M` to control the right paddle.
 
